@@ -1,0 +1,15 @@
+Exception in thread "Thread-5" java.util.NoSuchElementException
+	at java.util.Scanner.throwFor(Scanner.java:838)
+	at java.util.Scanner.next(Scanner.java:1347)
+	at ClientTracker1.queryLine(ClientTracker1.java:51)
+	at ClientTracker1.queryDB(ClientTracker1.java:26)
+	at ServerThread.run(ServerThread.java:41)
+	at java.lang.Thread.run(Thread.java:680)
+Exception in thread "Thread-4" java.util.NoSuchElementException
+	at java.util.Scanner.throwFor(Scanner.java:838)
+	at java.util.Scanner.next(Scanner.java:1347)
+	at ClientTracker1.queryLine(ClientTracker1.java:51)
+	at ClientTracker1.queryDB(ClientTracker1.java:26)
+	at ServerThread.run(ServerThread.java:41)
+	at java.lang.Thread.run(Thread.java:680)
+

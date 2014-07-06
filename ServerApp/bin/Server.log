@@ -1,0 +1,586 @@
+2013-01-06 00:27:47: Server started
+2013-01-06 00:30:37: Server started
+2013-01-06 00:30:48: Current clients connected is 1
+2013-01-06 00:30:48: Connection request received from 'localhost'
+2013-01-06 00:30:48: Erythrocyte: Connected
+2013-01-06 00:30:48: Erythrocyte: Hashcode for connection is: 1378503043
+2013-01-06 00:30:48: Client data file does not exist, recreating.
+2013-01-06 00:31:41: Current clients connected is 2
+2013-01-06 00:31:41: Connection request received from 'localhost'
+2013-01-06 00:31:41: EghFelnore: Connected
+2013-01-06 00:31:41: EghFelnore: Hashcode for connection is: 600987386
+2013-01-06 00:32:14: EghFelnore: Client from 'localhost' dropped
+2013-01-06 00:32:16: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 21:17:51: Server started
+2013-01-18 21:20:16: Current clients connected is 1
+2013-01-18 21:20:16: Connection request received from 'localhost'
+2013-01-18 21:20:16: Erythrocyte: Connected, hashcode is: 1242327235
+2013-01-18 21:21:34: Current clients connected is 1
+2013-01-18 21:21:34: Connection request received from 'localhost'
+2013-01-18 21:21:34: Erythrocyte: Connected, hashcode is: 643059393
+2013-01-18 21:24:47: Server started
+2013-01-18 21:25:02: Current clients connected is 1
+2013-01-18 21:25:03: Connection request received from 'localhost'
+2013-01-18 21:25:03: Erythrocyte: Connected, hashcode is: 1957822511
+2013-01-18 21:33:32: Server started
+2013-01-18 21:33:42: Current clients connected is 1
+2013-01-18 21:33:42: Connection request received from 'localhost'
+2013-01-18 21:33:42: Erythrocyte: Connected, hashcode is: 1242327235
+2013-01-18 21:33:56: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 21:34:06: Current clients connected is 1
+2013-01-18 21:34:06: Connection request received from 'localhost'
+2013-01-18 21:34:06: Erythrocyte: Connected, hashcode is: 2654289
+2013-01-18 21:34:45: Current clients connected is 2
+2013-01-18 21:34:45: Connection request received from 'localhost'
+2013-01-18 21:34:45: EghFelnore: Connected, hashcode is: 211543962
+2013-01-18 21:36:20: EghFelnore: Client from 'localhost' dropped
+2013-01-18 21:36:21: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 21:39:24: Server started
+2013-01-18 21:40:18: Current clients connected is 1
+2013-01-18 21:40:19: Connection request received from 'localhost'
+2013-01-18 21:40:19: Erythrocyte: Connected, hashcode is: 1957822511
+2013-01-18 21:40:28: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 21:40:44: Current clients connected is 1
+2013-01-18 21:40:44: Connection request received from 'localhost'
+2013-01-18 21:40:44: Erythrocyte: Connected, hashcode is: 1008546603
+2013-01-18 21:40:47: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 21:41:07: Current clients connected is 1
+2013-01-18 21:41:07: Connection request received from 'localhost'
+2013-01-18 21:41:07: Erythrocyte: Connected, hashcode is: 1316420512
+2013-01-18 21:41:09: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 21:42:27: Current clients connected is 1
+2013-01-18 21:42:27: Connection request received from 'localhost'
+2013-01-18 21:42:27: Erythrocyte: Connected, hashcode is: 1368348708
+2013-01-18 21:42:51: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 21:43:36: Server started
+2013-01-18 21:43:43: Current clients connected is 1
+2013-01-18 21:43:43: Connection request received from 'localhost'
+2013-01-18 21:43:43: EghFelnore: Connected, hashcode is: 1378503043
+2013-01-18 21:44:03: Current clients connected is 2
+2013-01-18 21:44:03: Connection request received from 'localhost'
+2013-01-18 21:44:03: Erythrocyte: Connected, hashcode is: 848678846
+2013-01-18 21:44:16: EghFelnore: Client from 'localhost' dropped
+2013-01-18 21:44:18: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 21:49:14: Server started
+2013-01-18 21:49:28: Current clients connected is 1
+2013-01-18 21:49:28: Connection request received from 'localhost'
+2013-01-18 21:49:28: Erythrocyte: Connected, hashcode is: 1957822511
+2013-01-18 21:49:48: Current clients connected is 2
+2013-01-18 21:49:48: Connection request received from 'localhost'
+2013-01-18 21:49:48: EghFelnore: Connected, hashcode is: 634194056
+2013-01-18 21:50:32: EghFelnore: Client from 'localhost' dropped
+2013-01-18 21:50:34: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 22:10:35: Server started
+2013-01-18 22:10:48: Current clients connected is 1
+2013-01-18 22:10:48: Connection request received from 'localhost'
+2013-01-18 22:10:48: Erythrocyte: Connected, hashcode is: 1957822511
+2013-01-18 22:11:01: Current clients connected is 2
+2013-01-18 22:11:01: Connection request received from 'localhost'
+2013-01-18 22:11:01: EghFelnore: Connected, hashcode is: 1141180808
+2013-01-18 22:11:01: EghFelnore: Client from 'localhost' dropped
+2013-01-18 22:11:01: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 22:14:55: Server started
+2013-01-18 22:15:04: Current clients connected is 1
+2013-01-18 22:15:04: Connection request received from 'localhost'
+2013-01-18 22:15:04: Erythrocyte: Connected, hashcode is: 1957822511
+2013-01-18 22:15:19: Current clients connected is 2
+2013-01-18 22:15:19: Connection request received from 'localhost'
+2013-01-18 22:15:19: EghFelnore: Connected, hashcode is: 1492359994
+2013-01-18 22:15:19: EghFelnore: Client from 'localhost' dropped
+2013-01-18 22:15:19: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 22:17:02: Server started
+2013-01-18 22:17:12: Current clients connected is 1
+2013-01-18 22:17:12: Connection request received from 'localhost'
+2013-01-18 22:17:12: EghFelnore: Connected, hashcode is: 1957822511
+2013-01-18 22:17:12: EghFelnore: Client from 'localhost' dropped
+2013-01-18 22:18:50: Server started
+2013-01-18 22:19:04: Current clients connected is 1
+2013-01-18 22:19:04: Connection request received from 'localhost'
+2013-01-18 22:19:04: Erythrocyte: Connected, hashcode is: 1957822511
+2013-01-18 22:19:17: Current clients connected is 2
+2013-01-18 22:19:17: Connection request received from 'localhost'
+2013-01-18 22:19:17: EghFelnore: Connected, hashcode is: 938159131
+2013-01-18 22:19:17: EghFelnore: Client from 'localhost' dropped
+2013-01-18 22:19:17: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 22:20:15: Current clients connected is 1
+2013-01-18 22:20:15: Connection request received from 'localhost'
+2013-01-18 22:20:15: Erythrocyte: Connected, hashcode is: 16579154
+2013-01-18 22:20:15: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 22:20:23: Server started
+2013-01-18 22:20:30: Current clients connected is 1
+2013-01-18 22:20:30: Connection request received from 'localhost'
+2013-01-18 22:20:30: Erythrocyte: Connected, hashcode is: 1957822511
+2013-01-18 22:20:54: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 23:00:40: Server started
+2013-01-18 23:00:48: Current clients connected is 1
+2013-01-18 23:00:48: Connection request received from 'localhost'
+2013-01-18 23:00:48: Erythrocyte: Connected, hashcode is: 1447059865
+2013-01-18 23:01:00: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 23:01:21: Current clients connected is 1
+2013-01-18 23:01:21: Connection request received from 'localhost'
+2013-01-18 23:01:21: Erythrocyte: Connected, hashcode is: 1698873038
+2013-01-18 23:01:32: Current clients connected is 2
+2013-01-18 23:01:32: Connection request received from 'localhost'
+2013-01-18 23:01:32: EghFelnore: Connected, hashcode is: 978777649
+2013-01-18 23:01:41: EghFelnore: Client from 'localhost' dropped
+2013-01-18 23:01:43: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 23:08:27: Server started
+2013-01-18 23:08:38: Current clients connected is 1
+2013-01-18 23:08:38: Connection request received from 'localhost'
+2013-01-18 23:08:38: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:38: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:39: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:39: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:40: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:40: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:40: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:41: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:41: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:42: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:42: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:42: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:43: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:43: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:44: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:44: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:44: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:45: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:45: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:46: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:46: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:08:46: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 23:09:51: Server started
+2013-01-18 23:10:03: Current clients connected is 1
+2013-01-18 23:10:03: Connection request received from 'localhost'
+2013-01-18 23:10:03: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:10:30: Current clients connected is 2
+2013-01-18 23:10:30: Connection request received from 'localhost'
+2013-01-18 23:10:30: EghFelnore: Connected, hashcode is: 890594303
+2013-01-18 23:10:42: EghFelnore: Client from 'localhost' dropped
+2013-01-18 23:10:48: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 23:14:53: Server started
+2013-01-18 23:15:00: Current clients connected is 1
+2013-01-18 23:15:00: Connection request received from 'localhost'
+2013-01-18 23:15:00: Erythrocyte: Connected, hashcode is: 482848780
+2013-01-18 23:15:00: New conn is 482848780, conn in current line I'm checking is 1378503043
+2013-01-18 23:15:01: New conn is 482848780, conn in current line I'm checking is 1378503043
+2013-01-18 23:15:01: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:02: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:02: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:03: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:03: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:03: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:04: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:04: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:05: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:05: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:06: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:06: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:06: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:07: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:07: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:08: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:08: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:08: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:09: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:09: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:10: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:10: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:10: New conn is 482848780, conn in current line I'm checking is 482848780
+2013-01-18 23:15:11: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 23:19:11: Server started
+2013-01-18 23:19:20: Current clients connected is 1
+2013-01-18 23:19:20: Connection request received from 'localhost'
+2013-01-18 23:19:20: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:19:20: New conn is 1378503043, conn in current line I'm checking is 482848780
+2013-01-18 23:25:04: Server started
+2013-01-18 23:25:11: Current clients connected is 1
+2013-01-18 23:25:11: Connection request received from 'localhost'
+2013-01-18 23:25:11: Erythrocyte: Connected, hashcode is: 1957822511
+2013-01-18 23:25:11: New conn is 1957822511, conn in current line I'm checking is 482848780
+2013-01-18 23:25:22: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 23:31:14: Server started
+2013-01-18 23:31:22: Current clients connected is 1
+2013-01-18 23:31:22: Connection request received from 'localhost'
+2013-01-18 23:31:22: Erythrocyte: Connected, hashcode is: 1957822511
+2013-01-18 23:31:22: New conn is 1957822511, conn in current line I'm checking is 482848780
+2013-01-18 23:31:22: New conn is 1957822511, conn in current line I'm checking is 482848780
+2013-01-18 23:31:22: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:31:23: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 23:34:01: Server started
+2013-01-18 23:34:12: Current clients connected is 1
+2013-01-18 23:34:12: Connection request received from 'localhost'
+2013-01-18 23:34:12: Erythrocyte: Connected, hashcode is: 1957822511
+2013-01-18 23:34:12: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:34:12: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:34:12: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 23:35:27: Server started
+2013-01-18 23:35:36: Current clients connected is 1
+2013-01-18 23:35:36: Connection request received from 'localhost'
+2013-01-18 23:35:36: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:35:36: New conn is 1378503043, conn in current line I'm checking is 1957822511
+2013-01-18 23:35:37: New conn is 1378503043, conn in current line I'm checking is 1957822511
+2013-01-18 23:35:37: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 23:37:34: Server started
+2013-01-18 23:37:42: Current clients connected is 1
+2013-01-18 23:37:42: Connection request received from 'localhost'
+2013-01-18 23:37:42: Erythrocyte: Connected, hashcode is: 1447059865
+2013-01-18 23:37:42: New conn is 1447059865, conn in current line I'm checking is 1378503043
+2013-01-18 23:37:42: New conn is 1447059865, conn in current line I'm checking is 1378503043
+2013-01-18 23:37:42: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 23:41:35: Server started
+2013-01-18 23:41:48: Current clients connected is 1
+2013-01-18 23:41:48: Connection request received from 'localhost'
+2013-01-18 23:41:48: Erythrocyte: Connected, hashcode is: 1447059865
+2013-01-18 23:41:48: New conn is 1447059865, conn in current line I'm checking is 1447059865
+2013-01-18 23:41:48: New conn is 1447059865, conn in current line I'm checking is 1447059865
+2013-01-18 23:41:48: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 23:47:27: Current clients connected is 1
+2013-01-18 23:47:27: Connection request received from 'localhost'
+2013-01-18 23:47:27: Erythrocyte: Connected, hashcode is: 10969598
+2013-01-18 23:47:27: New conn is 10969598, conn in current line I'm checking is 1447059865
+2013-01-18 23:47:28: New conn is 10969598, conn in current line I'm checking is 1447059865
+2013-01-18 23:47:28: New conn is 10969598, conn in current line I'm checking is 10969598
+2013-01-18 23:47:28: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 23:49:18: Server started
+2013-01-18 23:49:27: Current clients connected is 1
+2013-01-18 23:49:27: Connection request received from 'localhost'
+2013-01-18 23:49:27: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-18 23:49:27: New conn is 1378503043, conn in current line I'm checking is 10969598
+2013-01-18 23:49:28: New conn is 1378503043, conn in current line I'm checking is 10969598
+2013-01-18 23:49:28: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 23:51:26: Server started
+2013-01-18 23:51:33: Current clients connected is 1
+2013-01-18 23:51:33: Connection request received from 'localhost'
+2013-01-18 23:51:33: Erythrocyte: Connected, hashcode is: 1957822511
+2013-01-18 23:51:33: New conn is 1957822511, conn in current line I'm checking is 1378503043
+2013-01-18 23:51:33: New conn is 1957822511, conn in current line I'm checking is 1378503043
+2013-01-18 23:51:33: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:51:34: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:51:34: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:51:35: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:51:35: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:51:36: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:51:36: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:51:37: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:51:37: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:51:37: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:51:38: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:51:38: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:51:39: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:51:39: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:51:39: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:51:40: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:51:40: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:51:41: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:51:41: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-01-18 23:51:41: Erythrocyte: Client from 'localhost' dropped
+2013-01-18 23:52:22: Current clients connected is 1
+2013-01-18 23:52:22: Connection request received from 'localhost'
+2013-01-18 23:52:22: Erythrocyte: Connected, hashcode is: 2004273875
+2013-01-18 23:52:22: New conn is 2004273875, conn in current line I'm checking is 1957822511
+2013-01-18 23:52:22: New conn is 2004273875, conn in current line I'm checking is 1957822511
+2013-01-18 23:52:23: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:23: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:23: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:24: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:24: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:25: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:25: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:26: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:26: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:26: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:27: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:27: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:28: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:28: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:28: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:29: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:29: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:30: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:30: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:30: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:31: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:31: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:32: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:32: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:33: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:33: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:33: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:34: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:34: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:35: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:35: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:35: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:36: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:36: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:37: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:37: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:37: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:38: New conn is 2004273875, conn in current line I'm checking is 2004273875
+2013-01-18 23:52:38: Erythrocyte: Client from 'localhost' dropped
+2013-01-19 22:23:27: Server started
+2013-01-19 22:24:02: Current clients connected is 1
+2013-01-19 22:24:02: Connection request received from 'localhost'
+2013-01-19 22:24:02: Erythrocyte: Connected, hashcode is: 1378503043
+2013-01-19 22:24:03: New conn is 1378503043, conn in current line I'm checking is 2004273875
+2013-01-19 22:24:03: New conn is 1378503043, conn in current line I'm checking is 2004273875
+2013-01-19 22:24:03: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:04: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:04: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:05: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:05: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:06: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:06: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:06: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:07: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:07: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:08: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:08: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:08: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:09: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:09: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:10: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:10: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:10: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:11: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:11: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:12: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:12: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:12: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:13: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:13: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:14: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:14: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:15: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:15: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:15: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:16: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:16: New conn is 1378503043, conn in current line I'm checking is 1378503043
+2013-01-19 22:24:16: Erythrocyte: Client from 'localhost' dropped
+2013-02-02 22:15:20: Server started
+2013-02-02 22:15:47: Current clients connected is 1
+2013-02-02 22:15:47: Connection request received from 'localhost'
+2013-02-02 22:15:47: Erythrocyte: Connected, hashcode is: 1957822511
+2013-02-02 22:15:47: New conn is 1957822511, conn in current line I'm checking is 1378503043
+2013-02-02 22:15:47: New conn is 1957822511, conn in current line I'm checking is 1378503043
+2013-02-02 22:15:48: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:48: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:49: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:49: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:50: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:50: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:51: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:51: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:51: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:52: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:52: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:53: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:53: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:53: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:54: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:54: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:55: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:55: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:56: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:56: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:56: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:57: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:57: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:58: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:58: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:58: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:59: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:15:59: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:00: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:00: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:00: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:01: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:01: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:02: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:02: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:03: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:03: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:03: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:04: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:04: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:05: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:05: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:05: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:06: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:06: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:07: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:07: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:07: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:08: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:08: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:09: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:09: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:10: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:10: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:10: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:11: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:11: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:12: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:12: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:12: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:13: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:13: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:14: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:14: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:14: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:15: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:15: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:16: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:16: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:17: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:17: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:17: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:18: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:18: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:19: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:19: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:19: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:20: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:20: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:21: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:21: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:22: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:22: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:22: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:23: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:23: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:24: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:24: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:24: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:25: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:25: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:26: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:26: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:26: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:27: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:27: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:28: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:28: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:28: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:29: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:29: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:30: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:30: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:31: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:31: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:31: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:32: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:32: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:33: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:33: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:33: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:34: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:34: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:35: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:35: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:35: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:36: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:36: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:37: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:37: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:38: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:38: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:38: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:39: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:39: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:40: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:40: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:40: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:41: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:41: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:42: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:42: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:42: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:43: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:43: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:44: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:44: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:45: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:45: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:45: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:46: New conn is 1957822511, conn in current line I'm checking is 1957822511
+2013-02-02 22:16:46: Erythrocyte: Client from 'localhost' dropped
+2013-02-02 22:19:45: Server started
+2013-02-02 22:19:54: Current clients connected is 1
+2013-02-02 22:19:54: Connection request received from 'localhost'
+2013-02-02 22:19:54: Erythrocyte: Connected, hashcode is: 1378503043
+2013-02-02 22:20:03: Erythrocyte: Client from 'localhost' dropped
+2013-02-02 22:20:14: Current clients connected is 1
+2013-02-02 22:20:14: Connection request received from 'localhost'
+2013-02-02 22:20:14: Erythrocyte: Connected, hashcode is: 434359633
+2013-02-02 22:20:54: Erythrocyte: Client from 'localhost' dropped
+2013-02-09 21:31:04: Server started
+2013-02-09 21:31:25: Current clients connected is 1
+2013-02-09 21:31:25: Connection request received from 'localhost'
+2013-02-09 21:31:25: Erythrocyte: Connected, hashcode is: 1447059865
+2013-02-09 21:34:06: Server started
+2013-02-09 21:34:20: Current clients connected is 1
+2013-02-09 21:34:20: Connection request received from 'localhost'
+2013-02-09 21:34:20: Erythrocyte: Connected, hashcode is: 1378503043
+2013-02-09 21:37:24: Server started
+2013-02-09 21:37:33: Current clients connected is 1
+2013-02-09 21:37:33: Connection request received from 'localhost'
+2013-02-09 21:37:33: Erythrocyte: Connected, hashcode is: 1957822511
+2013-02-09 21:43:23: Erythrocyte: Client from 'localhost' dropped
+2013-02-09 21:43:30: Current clients connected is 1
+2013-02-09 21:43:30: Connection request received from 'localhost'
+2013-02-09 21:43:30: Erythrocyte: Connected, hashcode is: 1653894434
+2013-02-09 21:43:47: Erythrocyte: Client from 'localhost' dropped
+2013-02-09 21:50:12: Server started
+2013-02-09 21:50:23: Current clients connected is 1
+2013-02-09 21:50:23: Connection request received from 'localhost'
+2013-02-09 21:50:23: Erythrocyte: Connected, hashcode is: 1378503043
+2013-02-09 21:50:32: Erythrocyte: Client from 'localhost' dropped
+2013-02-09 21:50:40: Current clients connected is 1
+2013-02-09 21:50:40: Connection request received from 'localhost'
+2013-02-09 21:50:40: Erythrocyte: Connected, hashcode is: 2052984951
+2013-02-09 21:50:52: Current clients connected is 2
+2013-02-09 21:50:52: Connection request received from 'localhost'
+2013-02-09 21:50:52: Erythrocyte: Connected, hashcode is: 1936269821
+2013-02-09 21:51:15: Erythrocyte: Client from 'localhost' dropped
+2013-02-09 21:51:18: Erythrocyte: Client from 'localhost' dropped
+2013-02-09 21:51:25: Current clients connected is 1
+2013-02-09 21:51:25: Connection request received from 'localhost'
+2013-02-09 21:51:25: Erythrocyte: Connected, hashcode is: 1981738037
+2013-02-09 21:51:30: Erythrocyte: Client from 'localhost' dropped
+2013-02-09 21:51:40: Current clients connected is 1
+2013-02-09 21:51:40: Connection request received from 'localhost'
+2013-02-09 21:51:40: Erythrocyte: Connected, hashcode is: 650519471
+2013-02-09 21:51:46: Erythrocyte: Client from 'localhost' dropped
+2013-02-09 21:51:53: Current clients connected is 1
+2013-02-09 21:51:53: Connection request received from 'localhost'
+2013-02-09 21:51:53: Erythrocyte: Connected, hashcode is: 2001391565
+2013-02-09 21:51:58: Erythrocyte: Client from 'localhost' dropped
+2013-02-09 21:53:51: Server started
+2013-02-09 21:54:09: Current clients connected is 1
+2013-02-09 21:54:09: Connection request received from 'localhost'
+2013-02-09 21:54:09: Erythrocyte: Connected, hashcode is: 1378503043
+2013-02-09 21:54:38: Current clients connected is 2
+2013-02-09 21:54:38: Connection request received from 'localhost'
+2013-02-09 21:54:38: Erythrocyte: Connected, hashcode is: 506121317
+2013-02-09 21:54:48: Erythrocyte: Client from 'localhost' dropped
+2013-02-09 21:54:49: Erythrocyte: Client from 'localhost' dropped
+2013-02-09 22:03:39: Current clients connected is 1
+2013-02-09 22:03:39: Connection request received from 'localhost'
+2013-02-09 22:03:39: Erythrocyte: Connected, hashcode is: 2010005445
+2013-02-09 22:04:32: Erythrocyte: Client from 'localhost' dropped
+2013-02-09 22:06:54: Current clients connected is 1
+2013-02-09 22:06:54: Connection request received from 'localhost'
+2013-02-09 22:06:54: Erythrocyte: Connected, hashcode is: 173057609
+2013-02-09 22:07:35: Erythrocyte: Client from 'localhost' dropped
+2014-07-05 20:47:42: Server started
+2014-07-05 20:48:50: Current clients connected is 1
+2014-07-05 20:48:50: Connection request received from 'localhost'
+2014-07-05 20:48:50: Erythrocyte: Connected, hashcode is: 1761506447
+2014-07-05 20:50:04: Erythrocyte: Client from 'localhost' dropped
+2014-07-05 20:56:08: Server started
+2014-07-05 20:56:15: Current clients connected is 1
+2014-07-05 20:56:15: Connection request received from 'localhost'
+2014-07-05 20:56:15: Erythrocyte: Connected, hashcode is: 429297187
+2014-07-05 20:56:51: Erythrocyte: Client from 'localhost' dropped
